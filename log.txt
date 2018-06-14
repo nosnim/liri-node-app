@@ -1,0 +1,477 @@
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\Eric\Desktop\Web_Design_Work\liri-node-app\liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue May 08 03:02:38 +0000 2018
+Tweet content: RT @mashable: Desmond Is Amazing is the future and we're here for it https://t.co/rKHD3lbPdS
+------------------------
+Created on: Tue May 08 02:55:15 +0000 2018
+Tweet content: @lisanke @IEEEorg @ncsu Thanks @lisanke it was great to see you tonight!
+------------------------
+Created on: Sat May 05 21:33:35 +0000 2018
+Tweet content: RT @mnicolecantley: I had a chance to interview @_angrbrd recently and was in total awe #womenintech #girlswhocode https://t.co/nwYjplymds
+------------------------
+Created on: Sat May 05 04:10:31 +0000 2018
+Tweet content: Check out my BB8 build \:-]/!! https://t.co/1W4FoS2H5q
+------------------------
+Created on: Tue Mar 20 12:06:51 +0000 2018
+Tweet content: RT @jkriggins: If you've ever been on-call or most importantly put someone on call, you had better read @mipsytipsy with tips on how best t…
+------------------------
+Created on: Fri Mar 16 16:25:58 +0000 2018
+Tweet content: @GinnyGhezzo @AllThingsOpen @HQRaleigh @CannonRoom @OS101Series @GinnyGhezzo I was just thinking about you last nig… https://t.co/oOHxrU0vF2
+------------------------
+Created on: Fri Mar 16 14:48:32 +0000 2018
+Tweet content: @AllThingsOpen @HQRaleigh @CannonRoom @OS101Series Thanks, all for your support! It was great to see everyone yeste… https://t.co/5TuYIRmdv0
+------------------------
+Created on: Fri Mar 16 04:56:59 +0000 2018
+Tweet content: RT @AllThingsOpen: Anna Derbakova @_angrbrd speaking to a full house tonight. A world-class presentation  #blockchain101  @HQRaleigh @Canno…
+------------------------
+Created on: Fri Mar 16 04:55:53 +0000 2018
+Tweet content: RT @arturomaltos: Can't wait to see @_angrbrd talking about cryptocurrencies and blockchain
+------------------------
+Created on: Tue Feb 20 14:48:35 +0000 2018
+Tweet content: RT @AllThingsOpen: Thank you to everyone who participated at #OpenSource101- Raleigh! From our volunteers, to the speakers and sponsors, an…
+------------------------
+Created on: Sat Feb 17 16:16:11 +0000 2018
+Tweet content: Looking forward to speaking on blockchain @2pm on the main stage! Looking forward to seeing everyone there.… https://t.co/dceRnaTJqF
+------------------------
+Created on: Fri Feb 02 06:29:26 +0000 2018
+Tweet content: @lighteningdrake The good 'ol RTFM :-].
+------------------------
+Created on: Fri Feb 02 06:27:36 +0000 2018
+Tweet content: It's great to represent @BCBSNC as well at all of these events :-]. https://t.co/wMj67O9lkr
+------------------------
+Created on: Fri Feb 02 06:26:40 +0000 2018
+Tweet content: That's me \ :-] /!! https://t.co/G6x9nKDHbi
+------------------------
+Created on: Tue Jan 23 13:35:28 +0000 2018
+Tweet content: Yeeey I’ll be speaking there :-]! #OpenSource101 #OpenSource https://t.co/Wjuvb08DgB
+------------------------
+Created on: Sun Jan 21 02:58:32 +0000 2018
+Tweet content: RT @UNC: Name something prettier than Chapel Hill covered in snow. We'll wait. 😍 https://t.co/T6bYmwBEab
+------------------------
+Created on: Fri Jan 19 22:32:37 +0000 2018
+Tweet content: Check out this Meetup: RIoT 2018 Kickoff - Blockchain Delivers Security and Efficiency to IoT… https://t.co/Yz4fpQ9JmZ
+------------------------
+Created on: Fri Jan 19 05:24:37 +0000 2018
+Tweet content: @JenWike @JenWike that sounds great! I would love to contribute and will definitely reach back out to you about tha… https://t.co/mddJBlwkh8
+------------------------
+Created on: Thu Jan 18 16:50:55 +0000 2018
+Tweet content: Self-healing skin for robots! Seriously!? https://t.co/joXs1xYmAh
+------------------------
+Created on: Thu Jan 18 06:40:51 +0000 2018
+Tweet content: I am thrilled to be speaking at Open Source 101 on February 17th! Check out the event below and make sure to regist… https://t.co/ixvhV3fVFE
+------------------------
+
+User Command: node liri.js spotify-this-song 'All I Want Is You' 
+
+User Command: node liri.js spotify-this-song 'Summertime Sadness' 
+
+User Command: node liri.js spotify-this-song 'Summertime Sadness' 
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue May 08 03:02:38 +0000 2018
+Tweet content: RT @mashable: Desmond Is Amazing is the future and we're here for it https://t.co/rKHD3lbPdS
+------------------------
+Created on: Tue May 08 02:55:15 +0000 2018
+Tweet content: @lisanke @IEEEorg @ncsu Thanks @lisanke it was great to see you tonight!
+------------------------
+Created on: Sat May 05 21:33:35 +0000 2018
+Tweet content: RT @mnicolecantley: I had a chance to interview @_angrbrd recently and was in total awe #womenintech #girlswhocode https://t.co/nwYjplymds
+------------------------
+Created on: Sat May 05 04:10:31 +0000 2018
+Tweet content: Check out my BB8 build \:-]/!! https://t.co/1W4FoS2H5q
+------------------------
+Created on: Tue Mar 20 12:06:51 +0000 2018
+Tweet content: RT @jkriggins: If you've ever been on-call or most importantly put someone on call, you had better read @mipsytipsy with tips on how best t…
+------------------------
+Created on: Fri Mar 16 16:25:58 +0000 2018
+Tweet content: @GinnyGhezzo @AllThingsOpen @HQRaleigh @CannonRoom @OS101Series @GinnyGhezzo I was just thinking about you last nig… https://t.co/oOHxrU0vF2
+------------------------
+Created on: Fri Mar 16 14:48:32 +0000 2018
+Tweet content: @AllThingsOpen @HQRaleigh @CannonRoom @OS101Series Thanks, all for your support! It was great to see everyone yeste… https://t.co/5TuYIRmdv0
+------------------------
+Created on: Fri Mar 16 04:56:59 +0000 2018
+Tweet content: RT @AllThingsOpen: Anna Derbakova @_angrbrd speaking to a full house tonight. A world-class presentation  #blockchain101  @HQRaleigh @Canno…
+------------------------
+Created on: Fri Mar 16 04:55:53 +0000 2018
+Tweet content: RT @arturomaltos: Can't wait to see @_angrbrd talking about cryptocurrencies and blockchain
+------------------------
+Created on: Tue Feb 20 14:48:35 +0000 2018
+Tweet content: RT @AllThingsOpen: Thank you to everyone who participated at #OpenSource101- Raleigh! From our volunteers, to the speakers and sponsors, an…
+------------------------
+Created on: Sat Feb 17 16:16:11 +0000 2018
+Tweet content: Looking forward to speaking on blockchain @2pm on the main stage! Looking forward to seeing everyone there.… https://t.co/dceRnaTJqF
+------------------------
+Created on: Fri Feb 02 06:29:26 +0000 2018
+Tweet content: @lighteningdrake The good 'ol RTFM :-].
+------------------------
+Created on: Fri Feb 02 06:27:36 +0000 2018
+Tweet content: It's great to represent @BCBSNC as well at all of these events :-]. https://t.co/wMj67O9lkr
+------------------------
+Created on: Fri Feb 02 06:26:40 +0000 2018
+Tweet content: That's me \ :-] /!! https://t.co/G6x9nKDHbi
+------------------------
+Created on: Tue Jan 23 13:35:28 +0000 2018
+Tweet content: Yeeey I’ll be speaking there :-]! #OpenSource101 #OpenSource https://t.co/Wjuvb08DgB
+------------------------
+Created on: Sun Jan 21 02:58:32 +0000 2018
+Tweet content: RT @UNC: Name something prettier than Chapel Hill covered in snow. We'll wait. 😍 https://t.co/T6bYmwBEab
+------------------------
+Created on: Fri Jan 19 22:32:37 +0000 2018
+Tweet content: Check out this Meetup: RIoT 2018 Kickoff - Blockchain Delivers Security and Efficiency to IoT… https://t.co/Yz4fpQ9JmZ
+------------------------
+Created on: Fri Jan 19 05:24:37 +0000 2018
+Tweet content: @JenWike @JenWike that sounds great! I would love to contribute and will definitely reach back out to you about tha… https://t.co/mddJBlwkh8
+------------------------
+Created on: Thu Jan 18 16:50:55 +0000 2018
+Tweet content: Self-healing skin for robots! Seriously!? https://t.co/joXs1xYmAh
+------------------------
+Created on: Thu Jan 18 06:40:51 +0000 2018
+Tweet content: I am thrilled to be speaking at Open Source 101 on February 17th! Check out the event below and make sure to regist… https://t.co/ixvhV3fVFE
+------------------------
+
+User Command: node liri.js spotify-this-song Pure 
+
+User Command: node liri.js spotify-this-song 
+
+User Command: node liri.js spotify-this-song 
+
+User Command: node liri.js spotify-this-song 
+
+User Command: node liri.js spotify-this-song 
+
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\Eric\Desktop\Web_Design_Work\liri-node-app\liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\Eric\Desktop\Web_Design_Work\liri-node-app\liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js spotify-this-song 'One' 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: One Kiss (with Dua Lipa)
+Artist: Calvin Harris
+Album: One Kiss (with Dua Lipa)
+Preview Here: https://p.scdn.co/mp3-preview/34b3b95afb8e1d34363f01b194b4a729100d3710?cid=4a826b2c724e438abba66a89127f7884
+
+User Command: node liri.js spotify-this-song 'One U2' 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: One
+Artist: U2
+Album: Achtung Baby
+Preview Here: null
+
+User Command: node liri.js spotify-this-song 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=4a826b2c724e438abba66a89127f7884
+
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\Eric\Desktop\Web_Design_Work\liri-node-app\liri.js,move-this,'Gladiator'
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js movie-this 'Gladiator' 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this 'Gladiator' 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: C:\Program Files\nodejs\node.exe,C:\Users\Eric\Desktop\Web_Design_Work\liri-node-app\liri.js,'my-tweets'
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\Eric\Desktop\Web_Design_Work\liri-node-app\liri.js,'my-tweets'
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\Eric\Desktop\Web_Design_Work\liri-node-app\liri.js,'my-tweets'
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Thu Jun 14 15:14:43 +0000 2018
+Tweet content: #Need4Posts
+------------------------
+Created on: Thu Jun 14 15:14:21 +0000 2018
+Tweet content: #WhataDay
+------------------------
+Created on: Mon Jun 04 13:33:53 +0000 2018
+Tweet content: Just setting up my Twitter. #myfirstTweet
+------------------------
+
+User Command: node liri.js movie-this 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this 'Gladiator' 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this 
+
+ERROR: No movie info retrieved, please check the spelling of the movie name!User Command: node liri.js movie-this 'Gladiator' 
+
+ERROR: No movie info retrieved, please check the spelling of the movie name!User Command: node liri.js movie-this Gladiator 
+
+ERROR: No movie info retrieved, please check the spelling of the movie name!User Command: node liri.js movie-this gladiator 
+
+ERROR: No movie info retrieved, please check the spelling of the movie name!User Command: node liri.js movie-this gladiator 
+
+ERROR: No movie info retrieved, please check the spelling of the movie name!User Command: node liri.js movie-this Gladiator 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this Gladiator 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Gladiator
+Year Released: 05 May 2000
+IMBD Rating: 8.5
+Country Produced: USA, UK
+Language: English
+Plot: When a Roman General is betrayed, and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.
+Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Gladiator 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Gladiator
+Year Released: 05 May 2000
+IMBD Rating: 8.5
+Country Produced: USA, UK
+Language: English
+Plot: When a Roman General is betrayed, and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.
+Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this jaws 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Jaws
+Year Released: 20 Jun 1975
+IMBD Rating: 8.0
+Country Produced: USA
+Language: English
+Plot: A local sheriff, a marine biologist and an old seafarer team up to hunt down a great white shark wrecking havoc in a beach resort.
+Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this jaws 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Jaws
+Year Released: 20 Jun 1975
+IMBD Rating: 8.0
+Country Produced: USA
+Language: English
+Plot: A local sheriff, a marine biologist and an old seafarer team up to hunt down a great white shark wrecking havoc in a beach resort.
+Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=4a826b2c724e438abba66a89127f7884
+
+User Command: node liri.js movie-this jaws 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Jaws
+Year Released: 20 Jun 1975
+IMBD Rating: 8.0
+Country Produced: USA
+Language: English
+Plot: A local sheriff, a marine biologist and an old seafarer team up to hunt down a great white shark wrecking havoc in a beach resort.
+Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "All I Want Is You"
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Sure Thing
+Artist: Miguel
+Album: All I Want Is You
+Preview Here: https://p.scdn.co/mp3-preview/d2ea23d1d8efbf0312ef066c20593be68b081b8a?cid=4a826b2c724e438abba66a89127f7884
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "All I Want Is You U2"
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: All I Want Is You (u2)
+Artist: Steve Lieberman, The Gangsta Rabbi
+Album: Jewish Pirate
+Preview Here: https://p.scdn.co/mp3-preview/b795b804936ae807d300739d849ba4c1910a6bbb?cid=4a826b2c724e438abba66a89127f7884
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "Sound of Silence Disturbed"
+
+ERROR: No song info retrieved, please check the spelling of the song name!User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "Sounds of Silence Disturbed"
+
+ERROR: No song info retrieved, please check the spelling of the song name!User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "Sounds of Silence"
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: The Sounds of Silence - Acoustic Version
+Artist: Simon & Garfunkel
+Album: Wednesday Morning, 3 A.M.
+Preview Here: https://p.scdn.co/mp3-preview/e9712de41f810303d5a6d25658230ff1bde2dabc?cid=4a826b2c724e438abba66a89127f7884
+
